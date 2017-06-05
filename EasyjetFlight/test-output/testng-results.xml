@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32304" started-at="2017-06-05T15:51:10Z" finished-at="2017-06-05T15:51:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32304" started-at="2017-06-05T15:51:10Z" finished-at="2017-06-05T15:51:43Z">
+      <class name="com.easyjetFlight.FlightTicketsBooking">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.easyjetFlight.FlightTicketsBooking@cb5822]" name="launchBrowser" is-config="true" duration-ms="8209" started-at="2017-06-05T21:21:10Z" finished-at="2017-06-05T21:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.easyjetFlight.FlightTicketsBooking@cb5822]" name="login" duration-ms="21773" started-at="2017-06-05T21:21:19Z" finished-at="2017-06-05T21:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.easyjetFlight.FlightTicketsBooking@cb5822]" name="closeBrowser" is-config="true" duration-ms="2311" started-at="2017-06-05T21:21:40Z" finished-at="2017-06-05T21:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.easyjetFlight.FlightTicketsBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
